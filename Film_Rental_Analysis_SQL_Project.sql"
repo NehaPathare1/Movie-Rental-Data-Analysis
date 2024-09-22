@@ -1,8 +1,8 @@
-#Introduction
+# Introduction
 
 This project looks at a film rental database to understand how films are rented, customer behavior, and how much money is made from rentals.
 
-#Database Overview
+# Database Overview
 We use the following tables:
 
 film: Information about films, including rental rates and lengths.
@@ -11,7 +11,7 @@ customer: Information about customers.
 rental: Records of rental transactions.
 payment: Details of payments made for rentals.
 
-#Queries
+# Queries
 1. Foreign Key Constraints in Rental Table
 
 Show the fields in the "rental" table that have foreign key constraints.
