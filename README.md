@@ -3,25 +3,23 @@ This project analyzes movie rental data to uncover trends, customer behaviors, a
 Project Overview
 This project analyzes movie rental data to uncover trends, customer behaviors, and revenue sources. It uses SQL to generate insights that can help improve rental strategies.
 
-Tools Used
+# Tools Used
 SQL
 Database Management System (e.g., MySQL, PostgreSQL)
 Challenge
 There was a lack of insights into rental trends and revenue sources, making it difficult to optimize rental strategies.
 
-Solution
+# Solution
 Developed advanced SQL queries using:
 Common Table Expressions (CTEs)
 Window functions
 Joins
 Analyzed data to identify patterns in rentals and customer preferences.
-Impact
+
+# Impact
 Generated actionable insights on:
 Top revenue-generating films
 Customer rental behaviors
 Provided recommendations for enhancing rental strategies.
-Getting Started
-To run this project, you need:
 
-A SQL database management system (e.g., MySQL, PostgreSQL).
-The movie rental dataset (provide instructions or a link if applicable).
+
