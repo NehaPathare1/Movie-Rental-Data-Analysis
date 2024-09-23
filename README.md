@@ -5,7 +5,7 @@ This project analyzes movie rental data to uncover trends, customer behaviors, a
 
 # Tools Used
 SQL
-Database Management System (e.g., MySQL, PostgreSQL)
+Database Management System (MySQL)
 Challenge
 There was a lack of insights into rental trends and revenue sources, making it difficult to optimize rental strategies.
 
