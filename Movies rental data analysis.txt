@@ -18,6 +18,7 @@ This query displays the fields in the "rental" table that have foreign key const
 
 
 PRAGMA foreign_key_list(rental);
+
 2. Top Categories by Average Film Length
 Find the top 5 film categories with the longest average lengths and compare them to the overall average length of films.
 
