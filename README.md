@@ -4,9 +4,10 @@ Project Overview
 This project analyzes movie rental data to uncover trends, customer behaviors, and revenue sources. It uses SQL to generate insights that can help improve rental strategies.
 
 ## Tools Used
-SQL
+SQL,
 Database Management System (MySQL)
-Challenge
+
+## Challenge
 There was a lack of insights into rental trends and revenue sources, making it difficult to optimize rental strategies.
 
 ## Solution
